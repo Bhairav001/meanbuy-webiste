@@ -6,7 +6,6 @@ const bcrypt = require('bcrypt')
 const { CartAuthantication } = require('../middleware/cartAuth.js')
 
 
-//GetProfile_________________________
 userRouter.get('/profile',CartAuthantication, async(req,res)=>{
     try{
         let userdata = await userModel.find({_id:req.body.user})
@@ -17,7 +16,6 @@ userRouter.get('/profile',CartAuthantication, async(req,res)=>{
 })
 
 
-//admin get _____________________________
 userRouter.get('/allusers', async(req,res)=>{
    let query = req.body
     try{
