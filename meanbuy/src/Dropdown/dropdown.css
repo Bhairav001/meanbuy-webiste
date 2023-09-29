@@ -1,0 +1,83 @@
+
+.categories{
+    width: 97%;
+    position: absolute;
+    margin-left:-12%;
+    top: 135px;
+    background-color: rgb(240, 235, 235);
+    max-height: fit-content;
+    padding: 20px;
+    text-align: left;
+    margin-top: 10px;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+
+.flexlink {
+ flex-direction: column;
+ gap:10px;
+ flex-wrap: wrap;
+}
+
+.flexlink>a:hover {
+    color: orange;
+    font-weight: bold;
+}
+
+.heading{
+   font-size: 14px;
+   font-weight: bold;
+   text-underline-offset: 1px;
+}
+.sidedrower{
+    background-color: white;
+    width: 23%;
+    top: 100px;
+    position: absolute;
+    border: 1px solid;
+    border-top: none;
+    max-height: 540px;
+    overflow: auto;
+    z-index: 9999;
+    margin-left: 75%;
+}
+.textbox{
+    text-align: left;
+    width: 70%;
+    line-height: 20px;
+    align-items: flex-start;
+    line-height: 15px;
+    margin: auto;
+}
+.cartinfo{
+    justify-content: space-around;
+    font-weight: 500;
+}
+
+@media all and (min-width:260px) and (max-width:720px){
+    .categories{
+        top: 100%;
+        width: 100%;
+        height: 300px;
+        overflow-y: auto;
+        margin-left: -5%;
+        margin-top: 0px;
+        height: 400px;
+    }
+    .mobgrid{
+        /* templateColumns='repeat(2, 1fr)' gap={6} display={{base:'grid',md:'none'}} */
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+    .mobgrid :hover{
+        text-decoration: underline;
+    }
+    .sidedrower{
+     /* margin-right: 1200px; */
+     top: 45%;
+     width: 90%;
+     z-index: 9999;
+     margin-left: -0.2%;
+     height: 500px;
+    }
+}

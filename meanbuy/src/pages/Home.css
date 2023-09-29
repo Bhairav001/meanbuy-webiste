@@ -1,0 +1,49 @@
+.Img{
+    width: 95%;
+    height: 400px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    translate: 1s;
+}
+.cardSlider{
+    width: 100%;
+    margin: auto;
+    background-color: brown;
+}
+.proslider{
+    margin: auto;
+    width: 100%;
+}
+.loading{
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    animation: loading 0.5s ease-in-out infinite;
+    transition: 0.5s;
+    text-align: center;
+}
+@keyframes loading {
+   0%{
+    background: rgb(255, 255, 255);
+   }
+   50%{
+    background-color: rgb(135, 158, 158);
+   }
+   100%{
+    background: white;
+   }
+}
+
+
+@media all and (min-width:260px) and (max-width:720px){
+
+    .Img{
+        width: 95%;
+        height: 100px;
+        margin: auto;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+
+}

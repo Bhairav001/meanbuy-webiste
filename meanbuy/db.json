@@ -1,0 +1,93 @@
+{
+  "product": [
+
+
+  ],
+  "users": [],
+  "cart": [
+    {
+      "title": "Mens Mechanical Wristwatch",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjE5Nzc4XC9CbHVlX25fMV8xLmpwZWciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+      "categories": "mens watch",
+      "brand": "MB",
+      "price": 3999,
+      "discount": 65,
+      "rating": 4.6,
+      "description": "Brand: FNGEEN\nMovement: Automatic Self-Wind\nBand Material Type: Stainless Steel\nDial Window Material Type: Hardlex\nClasp Type: Folding Clasp with Safety\nWater distance: 3 bar\nBand Length: 23cm\nBand Width: 20mm\nDial Diameter :  40.5mm\nPackage include: 1x Watch\nWarranty: 1 Year Manufacturer Warranty",
+      "user": "v",
+      "id": 5
+    },
+    {
+      "title": "Women Hana Trend Khaki Ballet Flats",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjM1MjEyXC9LaGFraV8zNl8yX2NhcG9uZX5oYW5hfnRyZW5kfndvbWVufmtoYWtpfmJhbGxldH5mfn5iZDhlfi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+      "categories": "Ballet Flats",
+      "brand": "Capone",
+      "price": 3999,
+      "discount": 33,
+      "rating": 4.7,
+      "description": "",
+      "user": "v",
+      "id": 8
+    },
+    {
+      "title": "Women Hana Trend Black Ballet Flats",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjM1Mjk1XC9CbGFja18zNl83X2NhcG9uZX5oYW5hfnRyZW5kfndvbWVufmJsYWNrfmJhbGxldH5mfjlkNThmMS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjEwMDAsImhlaWdodCI6MTAwMCwiZml0IjoiY29udGFpbiIsImJhY2tncm91bmQiOnsiciI6MjU1LCJnIjoyNTUsImIiOjI1NSwiYWxwaGEiOjF9fX19",
+      "categories": "Ballet Flats",
+      "brand": "Capone",
+      "price": 4499,
+      "discount": 25,
+      "rating": 3.9,
+      "description": "",
+      "user": "vik@gmail.com",
+      "id": 10
+    },
+    {
+      "title": "X450 Remote Control Wing Plane",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjM2MDU2XC9Vbmtub3duX25fMV8xLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+      "categories": "Toys",
+      "brand": "MB",
+      "price": 8999,
+      "discount": 25,
+      "rating": 4.9,
+      "description": "",
+      "user": "vik@gmail.com",
+      "id": 11
+    },
+    {
+      "title": "Silicone Steel Sports Watch",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjIxOTQ4XC9SZWRfbl8xXzEuanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTAwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX19fX0=",
+      "categories": "mens watch",
+      "brand": "MB",
+      "price": 2899,
+      "discount": 71,
+      "rating": 4.5,
+      "description": "Brand: CAGARNY\nMovement: Quartz\nType:Analog Watches\nMaterial:Alloy,Silicone\nStyle:Trendy\nColor:Red\nWater Resistant: 30m\nLenght: 23cm\nWidth of the Belt: 2.5cm\nThe Diameter of the dial:5.5cm\nWeight: 89g\nWarranty: 1 Year Manufacturer Warranty\nPackage include: 1x Watch",
+      "user": "vik@gmail.com",
+      "id": 17
+    },
+    {
+      "title": "Women Cotton Denim Abaya",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjM0NjI4XC9OYXZ5K0JsdWVfU18xXzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+      "categories": "Clothing",
+      "brand": "LONCA",
+      "price": 8999,
+      "discount": 50,
+      "rating": 3.6,
+      "description": "We are offering the latest and the best in women's clothing and accessories, for all occasions. Our Dark Blue Women Cotton Denim Abaya has a traditional,modest, plain, and full sleeve buttoned and is comfortable to wear and remove within no time. It is very easy to match your other wardrobe items with this beautiful abaya.\nThe gorgeous color will make you feel confident and beautiful on your special day. \nHandcrafted and beaded products should be washed inside out in a delicate program\nDuring the wash in order not to spoil the product, do not exceed 30 °C \n Wash the product by the washing instructions \nUse appropriate detergent for colored products \nDenim products and dark-colored products may dye when washed with other light-colored products. Do not wash together\nDo not expose clothes to direct sunlight while drying",
+      "user": "vik@gmail.com",
+      "id": 18
+    },
+    {
+      "title": "Women Cotton Denim Abaya",
+      "img1": "https://dbnzj30o7hucx.cloudfront.net/eyJidWNrZXQiOiJtZWFuYnV5LWltYWdlcyIsImtleSI6IjM0NjI4XC9OYXZ5K0JsdWVfU18xXzEucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMDAwLCJoZWlnaHQiOjEwMDAsImZpdCI6ImNvbnRhaW4iLCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfX19fQ==",
+      "categories": "Clothing",
+      "brand": "LONCA",
+      "price": 8999,
+      "discount": 50,
+      "rating": 3.6,
+      "description": "We are offering the latest and the best in women's clothing and accessories, for all occasions. Our Dark Blue Women Cotton Denim Abaya has a traditional,modest, plain, and full sleeve buttoned and is comfortable to wear and remove within no time. It is very easy to match your other wardrobe items with this beautiful abaya.\nThe gorgeous color will make you feel confident and beautiful on your special day. \nHandcrafted and beaded products should be washed inside out in a delicate program\nDuring the wash in order not to spoil the product, do not exceed 30 °C \n Wash the product by the washing instructions \nUse appropriate detergent for colored products \nDenim products and dark-colored products may dye when washed with other light-colored products. Do not wash together\nDo not expose clothes to direct sunlight while drying",
+      "user": "ram@gmail.com",
+      "id": 19
+    }
+  ]
+}
