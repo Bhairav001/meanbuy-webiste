@@ -9,7 +9,6 @@ import Admin from './pages/Admin/Dashboard';
 
 import { useState } from 'react';
 let light = {backgroundColor:'#ffffff'}
-// https://twisty-silly-ring.glitch.me/product
 function App() {
   const [bg,setBg] = useState(true)
 

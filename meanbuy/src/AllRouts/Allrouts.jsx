@@ -15,7 +15,6 @@ import Adminlogin from "../pages/Admin/AdminAuth/Adminlogin";
 import AdminPrivateroute from "../pages/Admin/AdminAuth/AdminPrivateRoute";
  
 const Allrouts = () => {
-
     return( 
         <Routes>
           <Route path="/" element={<Home/>}></Route>

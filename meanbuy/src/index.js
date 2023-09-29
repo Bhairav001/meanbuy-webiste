@@ -10,8 +10,6 @@ import {Store} from './store.js'
 
 import { AuthcontextProvider } from './AuthContext/Authcontext';
 
-
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
 

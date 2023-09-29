@@ -13,7 +13,6 @@ const userEmail = {
     password:''
 }
 
-
 const Login = ({input, setUsersignup}) => {
 const [view,setView] =useState(false)
 let {setUsername,loginAuth} = useContext(Authcontext)
