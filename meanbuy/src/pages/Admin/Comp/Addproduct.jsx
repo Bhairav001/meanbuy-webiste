@@ -28,7 +28,7 @@ setprodata({...prodata,[name]:valpro})
 
 let addproduct = async() => {
     console.log(prodata)
-  let data = await axios.post(`https://busy-worm-jewelry.cyclic.app/product/addproduct`,{
+  let data = await axios.post(`https://nice-puce-ox-coat.cyclic.cloud/product/addproduct`,{
     title: prodata.title,
     img1: prodata.img1,
     categories:prodata.categories,

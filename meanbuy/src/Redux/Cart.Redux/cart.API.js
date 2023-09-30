@@ -8,7 +8,7 @@ export const GetCartItem = async ()=> {
             "authorization": localStorage.getItem('token') 
         }
       }
-    let {data} = await axios.get(`https://busy-worm-jewelry.cyclic.app/cart`,config)
+    let {data} = await axios.get(`https://nice-puce-ox-coat.cyclic.cloud/cart`,config)
     return data;
 }
 
@@ -20,7 +20,7 @@ export const AddToCart = async(item) => {
             "authorization": localStorage.getItem('token') 
         }
       }
-    let data = await axios.post('https://busy-worm-jewelry.cyclic.app/cart/addtocart',item,config)
+    let data = await axios.post('https://nice-puce-ox-coat.cyclic.cloud/cart/addtocart',item,config)
     return data
 }
 
@@ -32,7 +32,7 @@ export const DeleteCart = async(id)=>{
             "authorization": localStorage.getItem('token') 
         }
       }
-  let {data} =  await axios.delete(`https://busy-worm-jewelry.cyclic.app/cart/deletecart/${id}`,config)
+  let {data} =  await axios.delete(`https://nice-puce-ox-coat.cyclic.cloud/cart/deletecart/${id}`,config)
 //   console.log(data)
 }
 
@@ -44,6 +44,6 @@ export const cartUpdate = async(id,value) => {
             "authorization": localStorage.getItem('token') 
         }
       };
-      let {data} = await axios.patch(`https://busy-worm-jewelry.cyclic.app/cart/updatecart/${id}`,{value},config)
+      let {data} = await axios.patch(`https://nice-puce-ox-coat.cyclic.cloud/cart/updatecart/${id}`,{value},config)
       return data._id
 }

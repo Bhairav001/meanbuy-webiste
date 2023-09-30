@@ -70,8 +70,8 @@ const [data,setData] = useState({
 
 useEffect(()=>{
 const GetData = async() => {
-   let  user = await axios.get('https://busy-worm-jewelry.cyclic.app/user/allusers')
-   let {data} =await axios.get('https://busy-worm-jewelry.cyclic.app/order/getallorders')
+   let  user = await axios.get('https://nice-puce-ox-coat.cyclic.cloud/user/allusers')
+   let {data} =await axios.get('https://nice-puce-ox-coat.cyclic.cloud/order/getallorders')
    const option = ['electronics','Home Decor','mens watch','Action Figures']  
  
 

@@ -44,7 +44,7 @@ const UserAuth = () => {
            let input = document.querySelector('#email').focus()
         }
       else {
-       const {data} = await axios.post('https://busy-worm-jewelry.cyclic.app//user/register',{email,password,name,contact})
+       const {data} = await axios.post('https://nice-puce-ox-coat.cyclic.cloud/user/register',{email,password,name,contact})
        if(data.msg){
         toast({
           title:data.msg,

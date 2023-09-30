@@ -12,8 +12,8 @@ const CoustomerPage = () => {
     const [Orders,setOrders] = useState([])
     
     const GetData = async() => {
-        let {data} = await axios.get('https://busy-worm-jewelry.cyclic.app/user/allusers')
-        let order = await axios.get('https://busy-worm-jewelry.cyclic.app/order/getallorders')
+        let {data} = await axios.get('https://nice-puce-ox-coat.cyclic.cloud/user/allusers')
+        let order = await axios.get('https://nice-puce-ox-coat.cyclic.cloud/order/getallorders')
 
         setUser(data)
         setUserOrder(order.data)

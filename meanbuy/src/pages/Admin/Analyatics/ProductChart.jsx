@@ -69,7 +69,7 @@ const [ProData,setProData] = useState(
 useEffect(()=>{
 const GetData = async() => {
     
-   let {data:{data}} =await axios.get('https://busy-worm-jewelry.cyclic.app/product')
+   let {data:{data}} =await axios.get('https://nice-puce-ox-coat.cyclic.cloud/product')
 
     let Product = {}
     for(let i=0; i<data.length; i++){
